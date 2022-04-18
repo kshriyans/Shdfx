@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "abc",
+      "class": "Todoapp",
+      "address": "abc@gmail.com",
+      "email": "church street",
+      "city": "12/1/22",
+      "password": ""
+    },
+    {
+      "id": 2,
+      "name": "xyz",
+      "class": "xyzdesc",
+      "address": "xyz@gmail.com",
+      "email": "Chennai",
+      "city": "1/12/19",
+      "password": ""
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
